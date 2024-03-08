@@ -24,3 +24,16 @@
 ### Mentee Info✨
 
 **Name:** Nisrina Ishmah Mahira🧕
+
+**Program:** IBM Academy - Advance Al [Kampus Merdeka Batch 6 Tahun 2024]🏫🎉
+
+### Tech Stack💻
+
+* Numpy
+* Pillow
+* Tensorflow
+* Matplotlib
+* Keras
+
+
+
